@@ -1,6 +1,6 @@
 # Project-HTML-CSS
 ---
-| NAME | VIEW ON CODEPEN |
+| NAME | CODEPEN |
 |--|--|
 | building a registration form  | [LINK](https://codepen.io/khairulhabibie/pen/xxjLMmP) |
 | building a piano              | [LINK](https://codepen.io/khairulhabibie/pen/MWGvLZj) |
